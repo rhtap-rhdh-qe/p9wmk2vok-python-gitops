@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: p9wmk2vok-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/p9wmk2vok-python-gitops
